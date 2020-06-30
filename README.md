@@ -9,7 +9,7 @@ This repository contains the training and evaluation code used for our [ImageCLE
 - make sure the dependencies listed below are installed
 - prepare the datasets (see below)
 - adjust the paths beginning with `/path/to` in all scripts
-- run `./prepare.py run_name` followed by `./train.py run_name`
+- run `python3 prepare.py run_name` followed by `python3 train.py run_name`
 
 ## Dependencies
 
