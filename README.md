@@ -20,6 +20,7 @@ This repository contains the training and evaluation code used for our [ImageCLE
 
 ## Dataset pre-processing
 
+- the scripts assume the images are all resized to 1536x1536 beforehand
 - for IBLA, we used [this](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/blob/master/Underwater%20Image%20Color%20Restoration/IBLA/main.py) script
 - for Rayleigh, we used [this](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/blob/master/Underwater%20Image%20Enhancement/RayleighDistribution/main.py) script on top of the IBLA images
 - for color reduction, we used [octree\_color\_quantizer](https://github.com/delimitry/octree_color_quantizer)
