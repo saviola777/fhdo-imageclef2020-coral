@@ -24,3 +24,11 @@ This repository contains the training and evaluation code used for our [ImageCLE
 - for IBLA, we used [this](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/blob/master/Underwater%20Image%20Color%20Restoration/IBLA/main.py) script
 - for Rayleigh, we used [this](https://github.com/wangyanckxx/Single-Underwater-Image-Enhancement-and-Color-Restoration/blob/master/Underwater%20Image%20Enhancement/RayleighDistribution/main.py) script on top of the IBLA images
 - for color reduction, we used [octree\_color\_quantizer](https://github.com/delimitry/octree_color_quantizer)
+
+## Citation
+
+> M. Arendt, J. Rückert, R. Brüngel, C. Brumann, C.M. Friedrich,
+> "The effects of colour enhancement and IoU optimisation on object detection and segmentation of coral reef structures"
+> Manuscript submitted for publication.
+<!-- > Proceedings of the 11th International Conference of the CLEF Association (CLEF 2020), September 22-25, 2020, Thessaloniki, Greece. LNCS Lecture Notes in Computer Science, Springer, 2020. -->
+<!-- > doi: TBD -->
